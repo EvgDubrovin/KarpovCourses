@@ -8,3 +8,5 @@ Lesson2 - basic Pandas concepts and operations, like: reading / writing csv, gro
 Lesson2_Tasks - basic pandas concepts and operations (continued).
 
 Lesson2_mini_project - analyzing a hotel bookings dataset with basic pandas methods.
+
+Lesson3 - advanced pandas functionality. EDA, metrics and distributions analysis of e-commerce store dataset. (Virtual task - to find the most loyal users to whom the managers would give a discount).
