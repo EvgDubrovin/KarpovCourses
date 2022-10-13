@@ -15,4 +15,6 @@ Lesson3 - advanced pandas functionality. EDA, metrics and distributions analysis
 
 Lesson3_tasks - some advanced (kinda) data analysis pandas tasks.
 
+Lesson3_mini_project - a mock app's users data analysis: EDA and visualizations.
+
 
